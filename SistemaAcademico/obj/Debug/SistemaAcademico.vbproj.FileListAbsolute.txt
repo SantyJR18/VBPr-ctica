@@ -1,0 +1,12 @@
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\bin\Debug\SistemaAcademico.xml
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\obj\Debug\SistemaAcademico.vbprojAssemblyReference.cache
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\obj\Debug\SistemaAcademico.FrmPrincipal.resources
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\obj\Debug\SistemaAcademico.Resources.resources
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\obj\Debug\SistemaAcademico.vbproj.GenerateResource.cache
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\obj\Debug\SistemaAcademico.vbproj.CoreCompileInputs.cache
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\obj\Debug\SistemaAcademico.xml
+C:\Users\Isi11\Desktop\Proyectos\SistemaAcademico\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
